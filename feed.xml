@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>Realistic Security</description>
+    <link>https://killjoylabs.com//</link>
+    <atom:link href="https://killjoylabs.com//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 02 Mar 2018 04:25:38 +0000</pubDate>
+    <lastBuildDate>Fri, 02 Mar 2018 04:25:38 +0000</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>InfoSec Resources</title>
+        <description>&lt;p&gt;Collection of resources&lt;/p&gt;
+
+&lt;p&gt;Information security covers a wide array of spaces and skills. My typical process for approaching a new problem area is to look at all the links I have collected over the years and see whether or not I favorited a tutorial or introduction series on a blog. This has lead to many resources across many computers/browsers and it is something I would like to share in case anyone else will find it useful. Below is a list of resources I have compiled over the years that I will do my best to update.&lt;/p&gt;
+
+&lt;p&gt;Note: Some of these resources fit into multiple categories.&lt;/p&gt;
+
+&lt;h3 id=&quot;learning-programming&quot;&gt;Learning Programming&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://projecteuler.net/&quot;&gt;Project Euler&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hackerrank.com/&quot;&gt;Hacker Rank&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codefights.com/&quot;&gt;Code Fights&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.codecademy.com/&quot;&gt;Codecademy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;online-security-capture-the-flagswargames&quot;&gt;Online Security Capture the Flags/Wargames&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ringzer0team.com/challenges&quot;&gt;RingZer0 Team Challenges&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://smashthestack.org/&quot;&gt;Smash The Stack Wargames&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://overthewire.org/wargames/&quot;&gt;Over the wire Wargames&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ctftime.org/&quot;&gt;CTF Time&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hackthissite.org/&quot;&gt;Hack this site&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hellboundhackers.org/&quot;&gt;Hellbound Hackers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://picoctf.com/&quot;&gt;PicoCTF&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://microcorruption.com/login&quot;&gt;Microcurruption&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://exploit-exercises.com/&quot;&gt;Exploit Exercises&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ctf-tools&quot;&gt;CTF Tools&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Gallopsled/pwntools&quot;&gt;Pwntools&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://quipqiup.com/&quot;&gt;Quip quip&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ctf-write-ups&quot;&gt;CTF Write-Ups&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ctfs&quot;&gt;CTF Write-up Github Repo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ctftime.org/writeups&quot;&gt;CTF Time Write-ups&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;reverse-engineering-warning-some-of-this-will-be-listed-as-malware-use-at-your-own-risk&quot;&gt;Reverse Engineering (WARNING: some of this will be listed as malware, use at your own risk)&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tuts4you.com/download.php?list.17&quot;&gt;Lena’s RE Tutorials&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tuts4you.com/download.php?view.3152&quot;&gt;Crackme.de Archives&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://octopuslabs.io/legend/blog/sample-page.html&quot;&gt;Legend of Random Olly Dbg Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;reverse-engineering-tools&quot;&gt;Reverse Engineering Tools&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hex-rays.com/products/ida/&quot;&gt;IDA Pro&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://binary.ninja/&quot;&gt;Binary Ninja&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hopperapp.com/&quot;&gt;Hopper Disassembler&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/radare/radare2&quot;&gt;Radare2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;malware-re&quot;&gt;Malware RE&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.alienvault.com/blogs/security-essentials/building-a-home-lab-to-become-a-malware-hunter-a-beginners-guide&quot;&gt;AlientVault Malware Hunter Intro&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://securedorg.github.io/RE101/&quot;&gt;Malware Unicorn RE 101&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;exploit-development&quot;&gt;Exploit Development&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.purehacking.com/blog/lloyd-simon/an-introduction-to-use-after-free-vulnerabilities&quot;&gt;Use after free vulnerability intro&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/&quot;&gt;Corelan Exploit Writing Tutorials&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://expdev-kiuhnm.rhcloud.com/2015/05/11/contents/&quot;&gt;Windows Exploit Development Introduction&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/&quot;&gt;Mozilla: Crash course in Memory Management&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.welivesecurity.com/wp-content/uploads/2017/01/Windows-Exploitation-2016-A4.pdf&quot;&gt;Windows Exploitation in 2016&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;web-application-security&quot;&gt;Web Application Security&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hack.me/&quot;&gt;Hack.me&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.dvwa.co.uk/&quot;&gt;Damn Vulnerable Web Application&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project&quot;&gt;OWASP Broken Web Apps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourceforge.net/projects/mutillidae/&quot;&gt;Multillidae Web Application&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://google-gruyere.appspot.com/&quot;&gt;Google Gruyere&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.lanmaster53.com/burp-visual-aids/&quot;&gt;Burp Suite Quick Summary&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.thegreycorner.com/2017/01/exploiting-difficult-sql-injection.html&quot;&gt;Tough SQLi with sqlmap&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;network-security&quot;&gt;Network Security&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://artkond.com/2017/03/23/pivoting-guide/&quot;&gt;Pivoting for Red Teamers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;pentration-testing&quot;&gt;Pentration Testing&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/nixawk/pentest-wiki&quot;&gt;Pentesting Wiki&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.pentest-standard.org/index.php/Main_Page&quot;&gt;Penetration Testing Standard&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;incident-response&quot;&gt;Incident Response&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ThreatHuntingProject/ThreatHunting/tree/master/hunts&quot;&gt;Threat Hunting Github&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.threathunting.net/&quot;&gt;Threat Huting Project&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;bug-bounties&quot;&gt;Bug Bounties&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hackerone.com/&quot;&gt;HackerOne&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bugcrowd.com/&quot;&gt;BugCrowd&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.synack.com/&quot;&gt;SynAck&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;penetration-testing-certifications&quot;&gt;Penetration Testing Certifications&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.offensive-security.com/information-security-training/penetration-testing-training-kali-linux/&quot;&gt;Offensive Security PWK OSCP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.giac.org/certification/penetration-tester-gpen&quot;&gt;GIAC GPEN&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;exploit-development-certifications&quot;&gt;Exploit Development Certifications&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.giac.org/certification/exploit-researcher-advanced-penetration-tester-gxpn&quot;&gt;GIAC GXPN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.offensive-security.com/information-security-certifications/osce-offensive-security-certified-expert/&quot;&gt;Offensive Security OSCE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.offensive-security.com/information-security-certifications/osee-offensive-security-exploitation-expert/&quot;&gt;Offensive Security OSEE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;web-application-security-certifications&quot;&gt;Web Application Security Certifications&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.offensive-security.com/information-security-certifications/oswe-offensive-security-web-expert/&quot;&gt;Offensive Security OSWE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.giac.org/certification/web-application-penetration-tester-gwapt&quot;&gt;GIAC GWAPT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;network-certifications&quot;&gt;Network Certifications&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna-routing-switching.html&quot;&gt;Cisco CCNA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.juniper.net/us/en/training/certification/certification-tracks/junos-intro-track/&quot;&gt;Juniper JNCIA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;online-security-training&quot;&gt;Online Security Training&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://opensecuritytraining.info/Training.html&quot;&gt;Open Security Info Training&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;containers-and-container-security&quot;&gt;Containers and Container Security&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.jessfraz.com/&quot;&gt;Jessie Frazelle’s Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;kernel-security&quot;&gt;Kernel Security&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/xairy/linux-kernel-exploitation&quot;&gt;Kernel Exploitation Github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Updated: June 18, 2017&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Jun 2017 19:10:00 +0000</pubDate>
+        <link>https://killjoylabs.com//resources/lists/2017/06/11/infosec-resources.html</link>
+        <guid isPermaLink="true">https://killjoylabs.com//resources/lists/2017/06/11/infosec-resources.html</guid>
+        
+        
+        <category>resources</category>
+        
+        <category>lists</category>
+        
+      </item>
+    
+      <item>
+        <title>Hello World!</title>
+        <description>&lt;p&gt;The normal “Hello World”! Check out our about us.&lt;/p&gt;
+
+&lt;p&gt;You can email us at killjoylabs@gmail.com&lt;/p&gt;
+
+&lt;p&gt;Thanks for checking us out!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Aug 2016 13:10:00 +0000</pubDate>
+        <link>https://killjoylabs.com//infosec/osint/2016/08/20/hello-world.html</link>
+        <guid isPermaLink="true">https://killjoylabs.com//infosec/osint/2016/08/20/hello-world.html</guid>
+        
+        
+        <category>infosec</category>
+        
+        <category>osint</category>
+        
+      </item>
+    
+  </channel>
+</rss>
